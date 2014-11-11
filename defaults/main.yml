@@ -16,4 +16,5 @@ zabbix_agent_user_parameters: []
 # zabbix_agent_metadata: foobarbaz
 # zabbix_agent_metadata_item: system.foobarbaz
 
+zabbix_agent_use_logstash: true
 logstash_conf_dir: /etc/logstash/conf.d
